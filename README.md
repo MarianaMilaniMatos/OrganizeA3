@@ -1,6 +1,3 @@
-Aqui está a versão ajustada do README, especificando que a linguagem principal é **Dart**:
-
----
 
 # Organize A3 📋✨
 
