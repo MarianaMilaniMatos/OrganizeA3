@@ -1,28 +1,32 @@
+Aqui está a versão ajustada do README, especificando que a linguagem principal é **Dart**:
 
+---
 
 # Organize A3 📋✨
 
 ![Repo Size](https://img.shields.io/github/repo-size/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=blue)  
 ![Language Count](https://img.shields.io/github/languages/count/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=green)  
+![Top Language](https://img.shields.io/github/languages/top/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=purple)  
 ![Last Commit](https://img.shields.io/github/last-commit/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=orange)  
 
 ## 📖 Sobre o Projeto  
-O **Organize A3** é um aplicativo de lista de tarefas desenvolvido com Flutter. Ele permite gerenciar tarefas de forma simples e intuitiva, incluindo funcionalidades modernas para melhorar a produtividade do usuário.
+O **Organize A3** é um aplicativo de lista de tarefas desenvolvido com **Flutter** e **Dart**. O projeto combina uma interface amigável com funcionalidades úteis para organizar e gerenciar suas tarefas diárias de forma prática e eficiente.
 
 ---
 
 ## 🛠️ Funcionalidades  
-- **📄 Listagem de Tarefas**: Visualize todas as tarefas organizadas.  
-- **✏️ Gerenciamento de Tarefas**: Adicione, edite, conclua ou exclua tarefas.  
-- **👤 Ícone de Perfil**: Acesso rápido às configurações do usuário.  
+- **📄 Listagem de Tarefas**: Visualize suas tarefas em uma interface organizada e intuitiva.  
+- **✏️ Gerenciamento de Tarefas**: Adicione, edite, conclua ou exclua tarefas facilmente.  
+- **👤 Ícone de Perfil**: Acesso direto às configurações do usuário.  
 - **🔒 Autenticação**: Login seguro via Firebase.  
-- **⏰ Notificações**: Receba lembretes automáticos das suas tarefas.  
+- **⏰ Notificações**: Receba lembretes automáticos das suas tarefas importantes.  
 
 ---
 
 ## 📂 Estrutura do Projeto  
-- **Frontend**: Flutter, com widgets personalizados para responsividade.  
-- **Backend**: Node.js para APIs com integração ao MySQL.  
+- **Frontend**: Desenvolvido em Flutter, com widgets personalizados para uma experiência fluida e responsiva.  
+- **Linguagem Principal**: Dart, conhecida por sua performance e escalabilidade.  
+- **Backend**: Node.js para APIs, com integração ao MySQL para gerenciamento de dados.  
 - **Autenticação e Notificações**: Firebase para segurança e comunicação em tempo real.
 
 ---
@@ -72,6 +76,4 @@ Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE
 Feito com ❤️ por Mariana Milani Matos.  
 </div>  
 
----
-
-Coloque esse conteúdo no arquivo `README.md` do repositório. 😊
+--- 
