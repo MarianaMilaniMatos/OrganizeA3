@@ -4,11 +4,6 @@ Aqui está a versão ajustada do README, especificando que a linguagem principal
 
 # Organize A3 📋✨
 
-![Repo Size](https://img.shields.io/github/repo-size/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=blue)  
-![Language Count](https://img.shields.io/github/languages/count/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=green)  
-![Top Language](https://img.shields.io/github/languages/top/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=purple)  
-![Last Commit](https://img.shields.io/github/last-commit/MarianaMilaniMatos/OrganizeA3?style=flat-square&color=orange)  
-
 ## 📖 Sobre o Projeto  
 O **Organize A3** é um aplicativo de lista de tarefas desenvolvido com **Flutter** e **Dart**. O projeto combina uma interface amigável com funcionalidades úteis para organizar e gerenciar suas tarefas diárias de forma prática e eficiente.
 
