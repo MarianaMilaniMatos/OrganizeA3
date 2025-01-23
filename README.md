@@ -2,7 +2,7 @@
 # Organize  📋✨
 
 ## 📖 Sobre o Projeto  
-O **Organize ** é um aplicativo de lista de tarefas desenvolvido com **Flutter** e **Dart**. O projeto combina uma interface amigável com funcionalidades úteis para organizar e gerenciar suas tarefas diárias de forma prática e eficiente.
+O **Organize** é um aplicativo de lista de tarefas desenvolvido com **Flutter** e **Dart**. O projeto combina uma interface amigável com funcionalidades úteis para organizar e gerenciar suas tarefas diárias de forma prática e eficiente.
 
 ---
 
